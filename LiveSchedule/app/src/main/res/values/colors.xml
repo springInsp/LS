@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="myorange">#BC9983</color>
+    <color name="mylightorange">#f6dacf</color>
+    <color name="myrippleeffect">#f2dedd</color>
+
+    <color name="mybuttonsignin">#ffd4b1</color>
+    <color name="mybuttonsigninstroke">#fed5b7</color>
+    <color name="mybuttonregister">#F5D4CB</color>
+    <color name="mybuttonregisterstroke">#E2C9C8</color>
+
+    <color name="mybuttonexit">#54595F</color>
+    <color name="mybuttonexitripple">#e4e5e9</color>
+    <color name="mybuttonexityes">#6c9eb5</color>
+    <color name="mybuttonexitcancel">#dce3ed</color>
+
+    <color name="mybackground">#BFF3F1E6</color>
+    <color name="mymenubottom">#dac7c3</color>
+
+
+
+
+</resources>

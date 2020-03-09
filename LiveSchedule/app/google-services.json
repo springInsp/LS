@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "85893553294",
+    "firebase_url": "https://live-schedule-afd7b.firebaseio.com",
+    "project_id": "live-schedule-afd7b",
+    "storage_bucket": "live-schedule-afd7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85893553294:android:f1d4ce51ce9cd752f97ddf",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.liveschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85893553294-lkr43t5jb8vpc6lfj32h0hkfkk0e9bdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bignerdranch.android.liveschedule",
+            "certificate_hash": "9a49a9c033de99bcf062a42b759a8c553bd301a0"
+          }
+        },
+        {
+          "client_id": "85893553294-cachn6jac8ddoa97eb4kdtcqsve6udpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqrZjH2OAIV16H-4T0hpP6zd_aud7WBOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85893553294-cachn6jac8ddoa97eb4kdtcqsve6udpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

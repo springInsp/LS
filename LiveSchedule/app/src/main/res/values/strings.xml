@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Live Schedule</string>
+    <string name="app_name_after">Войдите в свою учетную запись</string>
+    <string name="text_bottom">2020</string>
+    <string name="button_register">Регистрация</string>
+    <string name="button_sign_in">Вход</string>
+    <string name="button_add">Зарегистрироваться</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_ok">Да</string>
+
+    <string name="email_hint">Адрес электронной почты</string>
+    <string name="password_hint">Пароль</string>
+    <string name="firstname_hint">Фамилия</string>
+    <string name="secondname_hint">Имя</string>
+    <string name="lastname_hint">Отчество</string>
+    <string name="job_hint">Должность</string>
+
+    <string name="title_activity_tasks">Live Schedule</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Пользователь</string>
+    <string name="nav_header_subtitle">И И И</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_refresh">Обновить</string>
+
+    <string name="menu_tasks_today">Задачи на сегодня</string>
+    <string name="menu_tasks">Задачи на другой период</string>
+    <string name="menu_tools">Настройки</string>
+    <string name="menu_exit">Выход</string>
+
+    <string name="sure_exit">Вы уверены, что хотите выйти?</string>
+
+    <string name="title_task">Название задачи</string>
+    <string name="date_from">Дата начала выполнения задачи</string>
+    <string name="date_to">Дата окончания выполнения задачи</string>
+    <string name="check_details">Подробнее</string>
+    <string name="open">Открыть</string>
+    <string name="close">Закрыть</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_item">Задачи на сегодня</string>
+    <string name="second_item">Задачи на эту неделю</string>
+    <string name="third_item">Задачи на другой период</string>
+    <string name="today">Сегодня</string>
+    <string name="this_week">Неделя</string>
+    <string name="otherdate">Другая дата</string>
+
+</resources>
